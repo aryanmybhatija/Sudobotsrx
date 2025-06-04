@@ -13,9 +13,9 @@ def home():
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <meta name="author" content="WOODcraft SudoR2spr" />
     <meta name="keywords" content="Savebot, SRC,  Save Restricted Bot" />
-    <meta name="description" content="WDzone  Save Restricted Bot Service." />
-    <meta property="og:description" content="WDzone W Save Restricted Bot.">	  
-    <title> Save Restricted Bot - By WOODcraft</title>
+    <meta name="description" content="Botzone Save Restricted Bot Service." />
+    <meta property="og:description" content="TeamSonu1 Save Restricted Bot.">	  
+    <title> Save Restricted Bot - By ꧁•⊹٭𝚂𝚘𝚗𝚞٭⊹•꧂</title>
     <link rel="icon" type="image/x-icon" href="https://myappme.shop/img/file_224.jpg" type="image/x-icon" />
   </head>
 
