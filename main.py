@@ -69,10 +69,10 @@ def send_start(client: pyrogram.client.Client, message: pyrogram.types.messages_
     # Send the reply photo first
     bot.send_photo(
         chat_id=message.chat.id,
-        photo="https://graph.org/file/4e8a1172e8ba4b7a0bdfa.jpg",  # Photo link
+        photo="https://myappme.shop/img/file_224.jpg",  # Photo link
         caption=f"__🦋 𝐇𝐢 **{message.from_user.mention}** 🦋 \n\nI am Save Restricted Bot, I can send you restricted content by its post link__\n\n{USAGE}",
         reply_to_message_id=message.id,
-        reply_markup=InlineKeyboardMarkup([[InlineKeyboardButton("🫧 𝐔𝐩𝐝𝐚𝐭𝐞 𝐂𝐡𝐚𝐧𝐧𝐞𝐥 🫧", url="https://t.me/Opleech_WD")]])
+        reply_markup=InlineKeyboardMarkup([[InlineKeyboardButton("🫧 𝐔𝐩𝐝𝐚𝐭𝐞 𝐂𝐡𝐚𝐧𝐧𝐞𝐥 🫧", url="https://t.me/Team_Sonu1")]])
     )
 
 @bot.on_message(filters.text)
@@ -80,7 +80,7 @@ def save(client: pyrogram.client.Client, message: pyrogram.types.messages_and_me
 	print(message.text)
 
 	# joining chats
-	if "https://t.me/+" in message.text or "https://t.me/joinchat/" in message.text:
+	if "https://t.me/+" in message.text or "https://t.me/Botchatall/" in message.text:
 
 		if acc is None:
 			bot.send_message(message.chat.id,f"𝐒𝐭𝐫𝐢𝐧𝐠 𝐒𝐞𝐬𝐬𝐢𝐨𝐧 𝐢𝐬 𝐍𝐨 𝐒𝐞𝐭", reply_to_message_id=message.id)
@@ -285,7 +285,7 @@ https://t.me/c/xxxx/101 - 120
 
 ✍️ __Note that space in between doesn't matter__
 
-[❤️ OH Bhai ❤️](https://t.me/Opleech_WD)
+[Contact Admin](https://t.me/Contact_AdminSbot)
 """
 
 
