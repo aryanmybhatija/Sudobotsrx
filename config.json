@@ -1,7 +1,7 @@
 {
-    "LOL_BOT_TOKEN": "",
-    "API_LOL_ID": "",
-    "API_LOL_HASH": "",
+    "LOL_BOT_TOKEN": "7361141463:AAH4aQ4H8HYuqjoqPHEc_SLd0xBhplNArs8",
+    "API_LOL_ID": "21510149",
+    "API_LOL_HASH": "5c42041aedc17c68d2da13a79380528a",
     "PORT": "3000",
     "STRING": null
 }
